@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,19 +10,17 @@ redirect_from:
 
 I am a master student supervised by Prof. Tomoki Toda in [Toda Laboratory](https://www.toda.is.i.nagoya-u.ac.jp/) at the Graduate School of Informatics, Nagoya University starting from April 2019. Prior to that, I was a research student in Toda Laboratory in Nagoya University with advisor Prof. Tomoki Toda. I was also a research assistant at the Institute of Information Science (IIS) in Academia Sinica, Taipei, Taiwan with advisor Prof. Hsin-Min Wang. I received my Bachelor's degree from National Taiwan University in June 2018, majoring in Computer Science and Information Engineering (CSIE).
 
-My research interests include speech processing, natural language processing and machine learning. In particular, I am currently working on speech synthesis and voice conversion using deep generative models.
+My research interests include speech processing, natural language processing and machine learning. In particular, I am currently working on speech synthesis and voice conversion using deep generative models.I also love street dancing (locking). My team participated in a national dance contest (NTU Dance Competition). Check out the [video](https://www.youtube.com/watch?v=7kfGe7zuQ5g)
 
-I also love street dancing (locking). My team participated in a national dance contest. Check out the [video](https://www.youtube.com/watch?v=7kfGe7zuQ5g)
+*Last update: 2020.03.15*
 
-Last update: 2020.03.15
+# News
 
-## News
-
-### 2020
+## 2020
 
 - **2020.01** One journal paper [[CDVAE-CLS-GAN](https://arxiv.org/pdf/2001.07849.pdf)] was accepted to the **IEEE Transactions on Emerging Topics in Computational Intelligence**.  
 
-### 2019
+## 2019
 
 - **2019.12** One paper [[Transformer-VC](https://arxiv.org/pdf/1912.06813.pdf)] was submited to **arXiv**.
 - **2019.11** I helped the construction of the [[ASVspoof 2019 database](https://arxiv.org/abs/1911.01601)] and the paper was submited to **arXiv** and **CSL**.
@@ -36,7 +34,7 @@ Last update: 2020.03.15
 - **2019.04** Two papers [[F0-FCN-CDVAE](https://arxiv.org/pdf/1905.00615)] [[MOSNet](https://arxiv.org/pdf/1904.08352)] were submited to **arXiv**.
 - **2019.04** I started MS studies in Toda Laboratory at Nagoya University with advisor Prof. Tomoki Toda.  
 
-### 2018
+## 2018
 
 - **2018.11** I won the **Best Student Paper Award** in **ISCSLP 2018**!
 - **2018.10** One paper [[VAE-WNV-VC](https://unilight.github.io/VAE-WNV-VC-Demo/)] was submited to **arXiv**.
